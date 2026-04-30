@@ -2,6 +2,8 @@
 
 End-to-end machine learning project for STAT 5243 using a chocolate sales dataset.
 
+The build of this web app is found at: https://stat5243-project4.streamlit.app/
+
 ## Main project artifact
 
 - `Project4_Chocolate_Sales.ipynb`: core workflow covering data preparation, EDA, feature engineering, supervised models, and model comparison.
