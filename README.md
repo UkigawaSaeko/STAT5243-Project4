@@ -24,7 +24,3 @@ This repository includes an optional web application (bonus feature from Project
 2. Start the dashboard:
    - `streamlit run streamlit_app.py`
 3. Open the local URL shown in your terminal (usually `http://localhost:8501`).
-<<<<<<< HEAD
-
-=======
->>>>>>> a64047a50c36f6c37da02e707caf0568da1a4c22
