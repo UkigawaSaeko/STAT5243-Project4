@@ -1,10 +1,15 @@
 # STAT 5243 Project 4 Submission Writeup
 
-**Project Title:** End-to-End Machine Learning on Chocolate Sales (2023-2024)  
+**Project Title:** End-to-End Machine Learning on Chocolate Sales (2023-2024) 
+
 **Course:** STAT 5243  
+
 **Team Members:** Freya Chen (yc4684), Tong An (ta2829), Zhe Lin (zl3613), Jason Qin (jq2394)
+
 **Submission Date:** May 4, 2026 
+
 **Repository:** https://github.com/UkigawaSaeko/STAT5243-Project4
+
 **Bonus web app:** https://stat5243-project4.streamlit.app/
 
 ---
