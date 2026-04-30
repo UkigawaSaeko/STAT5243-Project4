@@ -23,23 +23,3 @@ This repository includes an optional web application (bonus feature from Project
    - `streamlit run streamlit_app.py`
 3. Open the local URL shown in your terminal (usually `http://localhost:8501`).
 
-## Free web deployment options
-
-### Option A: Streamlit Community Cloud (recommended, free)
-
-1. Push this project to a public GitHub repository.
-2. Go to [Streamlit Community Cloud](https://share.streamlit.io/).
-3. Click **New app** and select:
-   - Repository: your GitHub repo
-   - Branch: your branch (usually `main`)
-   - Main file path: `app.py` (or `streamlit_app.py`)
-4. Deploy.
-
-The platform auto-installs dependencies from `requirements.txt`.
-
-### Option B: Hugging Face Spaces (free tier)
-
-1. Create a new Space using **Streamlit** SDK.
-2. Upload this project files to the Space.
-3. Ensure `app.py` is present as entrypoint and `requirements.txt` is included.
-4. Space builds automatically and hosts your app publicly.
